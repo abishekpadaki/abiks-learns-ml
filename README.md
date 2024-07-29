@@ -1,2 +1,6 @@
 # abiks-learns-ml
-A bunch of notes in markdown that i make as i learn and explore the vast world of machine intelligence
+I try to document most of my ml learning and experiments here. 
+Below are some links to some of my ML repos:
+
+[Neural Nets Experimentations](https://github.com/abishekpadaki/abiks-neural-net)
+[Autogen Agents](https://github.com/abishekpadaki/abiks-autogen-agents)
